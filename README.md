@@ -38,8 +38,9 @@ This way, Steam is still accessible to use.
 3. Install [GCC](https://gcc.gnu.org) & [MinHook](https://github.com/TsudaKageyu/minhook):
 
     ```bash
-    pacman -Syu mingw-w64-ucrt-x86_64-gcc mingw-w64-ucrt-x86_64-MinHook --noconfirm
+    pacman -Syu mingw-w64-ucrt-x86_64-gcc --noconfirm
     ```
 
 
 3. Start MSYS2's `UCRT64` environment & run `Build.cmd`.
+
