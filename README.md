@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This project is now deprecated.
+
 # NoSteamWebHelper
  A program that disables Steam's CEF/Chromium Embedded Framework.
 
@@ -43,4 +46,5 @@ This way, Steam is still accessible to use.
 
 
 3. Start MSYS2's `UCRT64` environment & run `Build.cmd`.
+
 
